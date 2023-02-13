@@ -12,10 +12,10 @@ persona.edad = 32;
 
 //Crear
 var autos = {};
-autos.marcas = ["Ford", "Audi", "Ferrari"]:
+autos.marcas = ["Ford", "Audi", "Ferrari"];
 
-    //Borrar
-    delete autos.marcas;
+//Borrar
+delete autos.marcas;
 
 // DOT NOTATION
 var atuendos = { manos: ['Guantes', 'Anillos'], pies: ['Zapatos', 'Soquetes'] };
